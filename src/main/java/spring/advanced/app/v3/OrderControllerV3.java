@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import spring.advanced.trace.TraceStatus;
-import spring.advanced.trace.hellotrace.HelloTraceV2;
 import spring.advanced.trace.logtrace.LogTrace;
 
 @RestController
